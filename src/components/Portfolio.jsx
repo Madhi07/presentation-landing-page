@@ -29,7 +29,7 @@ function Portfolio() {
             className='cardcontainer relative w-1/2 h-[75vh]'
           >
             <div className='card w-full h-full rounded-xl overflow-hidden'>
-              <img className='w-full h-full bg-cover' src="././images/project-1.png" alt="Project 1" />
+              <img className='w-full h-full bg-cover' src="./images/project-1.png" alt="Project 1" />
             </div>
             <motion.h1
               className="absolute inset-0 flex justify-center items-center text-[#eee] z-[9] overflow-hidden leading-none tracking-tight text-8xl"
@@ -60,7 +60,7 @@ function Portfolio() {
             className='cardcontainer relative w-1/2 h-[75vh]'
           >
             <div className='card w-full h-full rounded-xl overflow-hidden'>
-              <img className='w-full h-full bg-cover' src="././images/project-2.png" alt="Project 2" />
+              <img className='w-full h-full bg-cover' src="./images/project-2.png" alt="Project 2" />
             </div>
             <motion.h1
               className="absolute inset-0 flex justify-center items-center text-[#eee] z-[9] overflow-hidden leading-none tracking-tight text-8xl"
